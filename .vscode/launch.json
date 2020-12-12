@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open tentangkami.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\tentangkami.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open reviewdokter.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\reviewdokter.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open caridokter.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\caridokter.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open depan.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\depan.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open hubungi kami.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\hubungikami.html"
+        }
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}"
+        }
+    ]
+}
